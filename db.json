@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "d538",
+      "name": "arul",
+      "email": "arul123an@gmail.com",
+      "pass": "123"
+    },
+    {
+      "id": "b362",
+      "name": "admin",
+      "email": "an@gmail.com",
+      "pass": "123"
+    }
+  ],
+  "students": [
+    {
+      "id": "a7be",
+      "name": "arul",
+      "ph": "985623147",
+      "email": "arul123an@gmail.com",
+      "feedback": "good"
+    },
+    {
+      "id": "bccb",
+      "name": "naveen",
+      "ph": "98562314789",
+      "email": "naveen@gmail.com",
+      "feedback": "very good"
+    },
+    {
+      "id": "b233",
+      "name": "dinesh",
+      "ph": "7845129635",
+      "email": "dine@gmail.com",
+      "feedback": "average"
+    },
+    {
+      "id": "aa9b",
+      "name": "joushva",
+      "ph": "8954623569",
+      "email": "josh@gmail.com",
+      "feedback": "good"
+    }
+  ]
+}
